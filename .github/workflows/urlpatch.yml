@@ -5,7 +5,7 @@ on:
     inputs:
       image_url:
         description: 'Recovery Image URL'
-        default: 'https://transfer.sh/<file-id>/<file>.img'
+        default: 'https://1009.filemail.com/api/file/get?filekey=rOcPVIuoke2er2e2kuMwdH-jbgYUsPBO240MwOSSbt8UOf5rfoPQoZPDi8ndaA&skipreg=true&pk_vid=1a340b488fed18a81717372837a68d41'
         required: true
         type: string
 
